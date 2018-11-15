@@ -1,6 +1,6 @@
 <?php
 
-/**
+/*
  ZIP the /wp-content/ directory from the root folder.
  Just put it in your root directory, go to example.com/zip.php, wget from your new server and unzip inside your new wp-content.
  The other files have to be get in a freshely downloaded WordPress release. 
